@@ -89,8 +89,7 @@ footer {
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
- 
-  header {
+   header {
     background-color: #f0fff0;
   }
 
